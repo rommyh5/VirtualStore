@@ -15,26 +15,27 @@ const products = [
         name: "Dior Sauvage",
         type: "fragancias",
         price: 95.00,
-        image: "img/photo101.png",
-        promotionEnd: "2025-07-20"
+        image: "img/BO_202513_NITRO_AIR.png",
+        promotionEnd: "2025-08-31"
     },
     {
         id: 3,
         name: "Tom Ford Black Orchid",
         type: "fragancias",
         price: 150.00,
-        image: "img/photo101.png",
-        promotionEnd: "2025-09-01"
+        image: "img/BO_202513_NITRO_NIGHT.jpg",
+        promotionEnd: "2025-08-31"
     },
-    //--------------------------------------- Maquillaje
-    {
+	{
         id: 4,
         name: "Base Fenty Beauty",
         type: "maquillaje",
         price: 34.00,
-        image: "img/photo101.png",
+        image: "img/BO_202513_NITRO_ULTIMATE.webp",
         promotionEnd: "2025-07-25"
     },
+    //--------------------------------------- Maquillaje
+    
     {
         id: 5,
         name: "Paleta Urban Decay",
