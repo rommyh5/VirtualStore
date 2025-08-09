@@ -5,53 +5,54 @@ const products = [
         id: 1,
         name: "NITRO",
         type: "fragancias",
-        price: 110.00,
+        price: 130.00,
         /*image: "https://images.unsplash.com/photo-1541643600914-78b084683601?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",*/
 		image: "img/BO_202513_NITRO.jpg",
         promotionEnd: "2025-08-31"
     },
     {
         id: 2,
-        name: "Dior Sauvage",
+        name: "NITRO AIR",
         type: "fragancias",
-        price: 95.00,
+        price: 140.00,
         image: "img/BO_202513_NITRO_AIR.png",
         promotionEnd: "2025-08-31"
     },
     {
         id: 3,
-        name: "Tom Ford Black Orchid",
+        name: "NITRO NIGHT",
         type: "fragancias",
-        price: 150.00,
+		price: 140.00,
         image: "img/BO_202513_NITRO_NIGHT.jpg",
         promotionEnd: "2025-08-31"
     },
 	{
         id: 4,
-        name: "Base Fenty Beauty",
-        type: "maquillaje",
-        price: 34.00,
+        name: "NITRO ULTIMATE",
+        type: "fragancias",
+        price: 140.00,
         image: "img/BO_202513_NITRO_ULTIMATE.webp",
-        promotionEnd: "2025-07-25"
+        promotionEnd: "2025-08-31"
     },
-    //--------------------------------------- Maquillaje
-    
-    {
+	{
         id: 5,
-        name: "Paleta Urban Decay",
-        type: "maquillaje",
-        price: 54.00,
-        image: "img/photo101.png",
-        promotionEnd: "2025-08-10"
+        name: "SATIN ROUGE",
+        type: "fragancias",
+        price: 160.00,
+        image: "img/200108160_SatinRouge_galeria3.webp",
+        promotionEnd: "2025-08-31"
     },
     {
         id: 6,
-        name: "Labial MAC Ruby Woo",
-        type: "maquillaje",
+        name: "",
+        type: "fragancias",
         price: 19.00,
-        image: "img/photo101.png",
-        promotionEnd: "2025-07-30"
+        image: "img/BO_202513_1_56_01328.webp",
+        promotionEnd: "2025-08-31"
     },
+    //--------------------------------------- Maquillaje
+    
+    
     //--------------------------------------- Moda
     {
         id: 7,
