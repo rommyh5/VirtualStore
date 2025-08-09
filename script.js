@@ -5,7 +5,7 @@ const products = [
         id: 1,
         name: "NITRO",
         type: "fragancias",
-        price: 130.00,
+        price: 140.00,
         /*image: "https://images.unsplash.com/photo-1541643600914-78b084683601?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",*/
 		image: "img/BO_202513_NITRO.jpg",
         promotionEnd: "2025-08-31"
@@ -14,7 +14,7 @@ const products = [
         id: 2,
         name: "NITRO AIR",
         type: "fragancias",
-        price: 140.00,
+        price: 150.00,
         image: "img/200060760_fotoproducto.webp",
         promotionEnd: "2025-08-31"
     },
@@ -22,7 +22,7 @@ const products = [
         id: 3,
         name: "NITRO NIGHT",
         type: "fragancias",
-		price: 140.00,
+		price: 150.00,
         image: "img/200111162_fotoaroma.jpg",
         promotionEnd: "2025-08-31"
     },
@@ -30,7 +30,7 @@ const products = [
         id: 4,
         name: "NITRO ULTIMATE",
         type: "fragancias",
-        price: 140.00,
+        price: 150.00,
         image: "img/200106360_fotoproducto.jpg",
         promotionEnd: "2025-08-31"
     },
@@ -46,7 +46,7 @@ const products = [
         id: 6,
         name: "FLEUR",
         type: "fragancias",
-        price: 160.00,
+        price: 190.00,
         image: "img/200111319_Fleur_50ml_aroma.jpg",
         promotionEnd: "2025-08-31"
     },
@@ -54,7 +54,7 @@ const products = [
         id: 7,
         name: "MISS",
         type: "fragancias",
-        price: 160.00,
+        price: 180.00,
         image: "img/200113646_bene.webp",
         promotionEnd: "2025-08-20"
     },
