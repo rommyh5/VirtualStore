@@ -44,9 +44,9 @@ const products = [
     },
     {
         id: 6,
-        name: "",
+        name: "SATIN ROUGE",
         type: "fragancias",
-        price: 19.00,
+        price: 160.00,
         image: "img/BO_202513_1_56_01328.webp",
         promotionEnd: "2025-08-31"
     },
