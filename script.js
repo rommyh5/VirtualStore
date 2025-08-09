@@ -15,7 +15,7 @@ const products = [
         name: "NITRO AIR",
         type: "fragancias",
         price: 140.00,
-        image: "img/BO_202513_NITRO_AIR.png",
+        image: "img/200060760_fotoproducto.webp",
         promotionEnd: "2025-08-31"
     },
     {
@@ -23,7 +23,7 @@ const products = [
         name: "NITRO NIGHT",
         type: "fragancias",
 		price: 140.00,
-        image: "img/BO_202513_NITRO_NIGHT.jpg",
+        image: "img/200111162_fotoaroma.jpg",
         promotionEnd: "2025-08-31"
     },
 	{
@@ -31,7 +31,7 @@ const products = [
         name: "NITRO ULTIMATE",
         type: "fragancias",
         price: 140.00,
-        image: "img/BO_202513_NITRO_ULTIMATE.webp",
+        image: "img/200106360_fotoproducto.jpg",
         promotionEnd: "2025-08-31"
     },
 	{
@@ -44,17 +44,25 @@ const products = [
     },
     {
         id: 6,
-        name: "SATIN ROUGE",
+        name: "FLEUR",
         type: "fragancias",
         price: 160.00,
-        image: "img/BO_202513_1_56_01328.webp",
+        image: "img/200111319_Fleur_50ml_aroma.jpg",
         promotionEnd: "2025-08-31"
+    },
+	{
+        id: 7,
+        name: "MISS",
+        type: "fragancias",
+        price: 160.00,
+        image: "img/200113646_bene.webp",
+        promotionEnd: "2025-08-20"
     },
     //--------------------------------------- Maquillaje
     
     
     //--------------------------------------- Moda
-    {
+    /*{
         id: 7,
         name: "Vestido Elegante",
         type: "moda",
@@ -77,9 +85,9 @@ const products = [
         price: 75.00,
         image: "img/photo101.png",
         promotionEnd: "2025-09-05"
-    },
+    },*/
     //--------------------------------------- Accesorios
-    {
+    /*{
         id: 10,
         name: "Bolso de Cuero",
         type: "accesorios",
@@ -102,7 +110,7 @@ const products = [
         price: 85.00,
         image: "img/photo101.png",
         promotionEnd: "2025-08-25"
-    }
+    }*/
 ];
 
 // Carrito de compras
